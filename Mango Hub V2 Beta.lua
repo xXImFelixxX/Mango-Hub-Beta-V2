@@ -1,7 +1,5 @@
 --[[
-Cảm Ơn Bạn Đã Sử Dụng Dịch Vụ Tiến Tiny Chấm Sờ Pây, Chúc Bạn Có 1 Trải Nghiệm Vui Vẻ.
-Nếu Có Lỗi Hoặc Cần Hỗ Trợ Hãy Liên Hệ Trên Web Nhé, Bạn Có Thể Pr Cho Bạn Bè Nữa Càng Tốt:D
-Website: tientiny.space
+Hub của Nguyễn Anh Quyền (Dev Mango Hub)
 ]]--
 
 local openshit = Instance.new("ScreenGui")
